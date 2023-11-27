@@ -2,7 +2,7 @@
   "name": "auto-scaling-nodejs-app",
   "version": "1.0.0",
   "author" : "Omkaraws"
- "dependencies": {
+  "dependencies": {
     "express": "4.17.1"
   }
 }
