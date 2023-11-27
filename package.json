@@ -1,7 +1,8 @@
- "name": "auto-scaling-nodejs-app",
-    "version": "12.22.9",
-    "author": "Omkaraws",
-    "dependencies": {
-        "express":"4.18.2"
-    } 
-)
+{
+  "name": "auto-scaling-nodejs-app",
+  "version": "1.0.0",
+  "author" : "Omkaraws"
+ "dependencies": {
+    "express": "4.17.1"
+  }
+}
