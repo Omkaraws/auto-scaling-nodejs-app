@@ -1,0 +1,6 @@
+#!/bin/bash
+apt update -y
+apt install -y
+systemctl start httpd
+systemctl enable httpd
+echo "<html><body>onkar website for load balancing</h1></body></html>" > /var/www/html/index.html
